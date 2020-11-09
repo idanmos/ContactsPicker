@@ -7,23 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A6918A6255917D80029E532 /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A6918A5255917D80029E532 /* Error.swift */; };
+		8A6918AA25592D580029E532 /* Simulator Screen Shot - iPhone 11 - 2020-11-09 at 09.53.50.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A6918A825592D580029E532 /* Simulator Screen Shot - iPhone 11 - 2020-11-09 at 09.53.50.png */; };
+		8A6918AB25592D580029E532 /* Simulator Screen Shot - iPhone 11 - 2020-11-09 at 09.53.55.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A6918A925592D580029E532 /* Simulator Screen Shot - iPhone 11 - 2020-11-09 at 09.53.55.png */; };
 		8AA9137B2557241D00ABCAA9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA9137A2557241D00ABCAA9 /* AppDelegate.swift */; };
 		8AA9137D2557241D00ABCAA9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA9137C2557241D00ABCAA9 /* SceneDelegate.swift */; };
-		8AA9137F2557241D00ABCAA9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA9137E2557241D00ABCAA9 /* ViewController.swift */; };
 		8AA913822557241D00ABCAA9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AA913802557241D00ABCAA9 /* Main.storyboard */; };
 		8AA913842557242000ABCAA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8AA913832557242000ABCAA9 /* Assets.xcassets */; };
 		8AA913872557242000ABCAA9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AA913852557242000ABCAA9 /* LaunchScreen.storyboard */; };
+		8AA913922557246600ABCAA9 /* ContactsPickerProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA913912557246600ABCAA9 /* ContactsPickerProvider.swift */; };
+		8AA9139725572D7C00ABCAA9 /* ContactsPickerTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA9139625572D7C00ABCAA9 /* ContactsPickerTableViewController.swift */; };
+		8AA9139F2557420100ABCAA9 /* ContactPickerTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA9139D2557420100ABCAA9 /* ContactPickerTableViewCell.swift */; };
+		8AA913A02557420100ABCAA9 /* ContactPickerTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8AA9139E2557420100ABCAA9 /* ContactPickerTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8A6918A5255917D80029E532 /* Error.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Error.swift; sourceTree = "<group>"; };
+		8A6918A825592D580029E532 /* Simulator Screen Shot - iPhone 11 - 2020-11-09 at 09.53.50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 11 - 2020-11-09 at 09.53.50.png"; sourceTree = "<group>"; };
+		8A6918A925592D580029E532 /* Simulator Screen Shot - iPhone 11 - 2020-11-09 at 09.53.55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 11 - 2020-11-09 at 09.53.55.png"; sourceTree = "<group>"; };
 		8AA913772557241D00ABCAA9 /* ContactsPicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactsPicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AA9137A2557241D00ABCAA9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8AA9137C2557241D00ABCAA9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		8AA9137E2557241D00ABCAA9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8AA913812557241D00ABCAA9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8AA913832557242000ABCAA9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8AA913862557242000ABCAA9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8AA913882557242000ABCAA9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8AA913912557246600ABCAA9 /* ContactsPickerProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsPickerProvider.swift; sourceTree = "<group>"; };
+		8AA9139625572D7C00ABCAA9 /* ContactsPickerTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsPickerTableViewController.swift; sourceTree = "<group>"; };
+		8AA9139D2557420100ABCAA9 /* ContactPickerTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactPickerTableViewCell.swift; sourceTree = "<group>"; };
+		8AA9139E2557420100ABCAA9 /* ContactPickerTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ContactPickerTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +70,17 @@
 			children = (
 				8AA9137A2557241D00ABCAA9 /* AppDelegate.swift */,
 				8AA9137C2557241D00ABCAA9 /* SceneDelegate.swift */,
-				8AA9137E2557241D00ABCAA9 /* ViewController.swift */,
+				8A6918A5255917D80029E532 /* Error.swift */,
+				8AA913912557246600ABCAA9 /* ContactsPickerProvider.swift */,
+				8AA9139625572D7C00ABCAA9 /* ContactsPickerTableViewController.swift */,
+				8AA9139D2557420100ABCAA9 /* ContactPickerTableViewCell.swift */,
+				8AA9139E2557420100ABCAA9 /* ContactPickerTableViewCell.xib */,
 				8AA913802557241D00ABCAA9 /* Main.storyboard */,
 				8AA913832557242000ABCAA9 /* Assets.xcassets */,
 				8AA913852557242000ABCAA9 /* LaunchScreen.storyboard */,
 				8AA913882557242000ABCAA9 /* Info.plist */,
+				8A6918A825592D580029E532 /* Simulator Screen Shot - iPhone 11 - 2020-11-09 at 09.53.50.png */,
+				8A6918A925592D580029E532 /* Simulator Screen Shot - iPhone 11 - 2020-11-09 at 09.53.55.png */,
 			);
 			path = ContactsPicker;
 			sourceTree = "<group>";
@@ -124,9 +142,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8AA913A02557420100ABCAA9 /* ContactPickerTableViewCell.xib in Resources */,
 				8AA913872557242000ABCAA9 /* LaunchScreen.storyboard in Resources */,
+				8A6918AA25592D580029E532 /* Simulator Screen Shot - iPhone 11 - 2020-11-09 at 09.53.50.png in Resources */,
 				8AA913842557242000ABCAA9 /* Assets.xcassets in Resources */,
 				8AA913822557241D00ABCAA9 /* Main.storyboard in Resources */,
+				8A6918AB25592D580029E532 /* Simulator Screen Shot - iPhone 11 - 2020-11-09 at 09.53.55.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +158,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8AA9137F2557241D00ABCAA9 /* ViewController.swift in Sources */,
 				8AA9137B2557241D00ABCAA9 /* AppDelegate.swift in Sources */,
+				8AA913922557246600ABCAA9 /* ContactsPickerProvider.swift in Sources */,
+				8AA9139725572D7C00ABCAA9 /* ContactsPickerTableViewController.swift in Sources */,
+				8AA9139F2557420100ABCAA9 /* ContactPickerTableViewCell.swift in Sources */,
+				8A6918A6255917D80029E532 /* Error.swift in Sources */,
 				8AA9137D2557241D00ABCAA9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -216,7 +240,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -271,7 +295,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -289,6 +313,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = N3N3LX399B;
 				INFOPLIST_FILE = ContactsPicker/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -308,6 +333,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = N3N3LX399B;
 				INFOPLIST_FILE = ContactsPicker/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
